@@ -1,0 +1,9 @@
+# François 04/06/2012
+Jour 1 - Matin      : Chapitres 00, 01, 02, 03
+Jour 1 - Après-midi : Chapitres 04, 05, TP1, TP2
+
+Jour 2 - Matin      : Chapitre 06, TP3
+Jour 2 - Après-midi : fin TP3, Chapitre 07, TP4
+
+Jour 3 - Matin      : Chapitre 8, TP5
+Jour 3 - Après-midi : fin TP5, Chapitres 9, 10, 11, TP7, démo TP9
