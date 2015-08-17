@@ -1,0 +1,1 @@
+Répertoire d'installation du jdk (les répertoires bin, jre, etc. doivent se trouver ici après installation du jdk) 
